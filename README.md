@@ -46,6 +46,8 @@ Educators / Trainers	Focus curricula on data pipelines, deployment, and NLP to a
 ![TOP ROLES](https://github.com/user-attachments/assets/a0556075-0345-46bd-b15e-4d44848ee6e5)
 
 
+
+
 2. Remote Roles Pay Slightly More.
 Remote jobs offer $549 more on average than on-site roles.
 Though not a massive difference, this suggests a slight premium for remote flexibility, possibly due to:
@@ -60,11 +62,15 @@ Policymakers	Remote work isn't driving inequality in AI pay — it's keeping sal
 ![work type](https://github.com/user-attachments/assets/84a598db-46d5-451e-8f20-cfde0ebd9677)
 
 
+
+
 3. Machine Learning Engineer Is the Most In-Demand Role
 824 roles, making up nearly 21% of total openings.
 MLEs are the backbone of modern AI systems — they integrate models into production, making this a critical hiring priority.
 
 Job Seekers Machine Learning, Deep Learning, and CV skills are your best bet for landing roles. Invest in TensorFlow, PyTorch, OpenCV, and MLOps.
+
+
 
 4. Bachelor’s Degree Is Slightly Most In-Demand
 With 25.75% of job postings, it's the top preferred level.
@@ -77,6 +83,8 @@ Career Changers	You don’t need a PhD to break in. Focus on certifications (lik
 ![Educational](https://github.com/user-attachments/assets/9390e9ba-20e6-4bf1-b12a-d316bdcfec9a)
 
 
+
+
 5. AI is Ubiquitous Across All Industries
 The difference between highest and lowest industry (Government 1,035 vs. Transportation 951) is just 84 jobs.
 There is a consistent need for AI talent across all sectors — AI is no longer just a tech-industry phenomenon.
@@ -87,6 +95,8 @@ There is a consistent need for AI talent across all sectors — AI is no longer 
 - For Companies No industry is “immune” to AI disruption. Start planning for AI adoption or risk falling behind.
 
 ![Industry](https://github.com/user-attachments/assets/52514575-4ca0-4aba-bc35-db69ce4b30d9)
+
+
 
 
 6. Switzerland Offers the Highest Pay — by Far
@@ -112,6 +122,8 @@ Nearly all countries listed have 700–820 job postings showing:
 - Localization of talent pools — companies hiring in-country vs. just relocating talent.
 
 ![GLOBAL](https://github.com/user-attachments/assets/d893006c-d94a-49bc-ae53-a7c3e9c16303)
+
+
 
 ### Conclusions
 ---
